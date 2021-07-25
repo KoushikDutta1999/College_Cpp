@@ -37,6 +37,7 @@
 34. sum_of_natural_num
 35. swap
 
+All Questions are inside.
 ---
 
 ## College_Cpp_class
