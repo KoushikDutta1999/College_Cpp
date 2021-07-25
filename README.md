@@ -1,5 +1,44 @@
 # College_Cpp
 
+## College_Cpp_lab
+
+1. A_Semester_labTest
+2. Temperature
+3. add_string
+4. array_min_max_avg
+5. array_student_details
+6. bank
+7. batsman
+8. book_library
+9. bookfair_discount
+10. bubble_sorting
+11. cal_salary
+12. concatenate_string
+13. display_student_details
+14. even_odd
+15. fact
+16. find_location
+17. find_max
+18. find_nth_term
+19. full_time
+20. function_overloading_cal_fraction
+21. function_overloading_shape_area
+22. investmest_equation
+23. library_function
+24. math_formula
+25. max_of_int_float_char
+26. movie_details
+27. power
+29. power_cude_of_x
+30. print_number
+31. simple_interest
+32. student_mark_avg
+33. sum_of_height
+34. sum_of_natural_num
+35. swap
+
+---
+
 ## College_Cpp_class
 
 1. add_imaginary_num
@@ -55,5 +94,3 @@
 - Include a constructor that takes values of Name, Rollno and Marks from the user as input. 
 - Also include following methods: CalculatePercentage: that adds all 5 elements of array Marks and calculate percentage according to formula Percentage = (Total marks/ 500 )*100 
 - and stores result in member variable Percentage. Grade: that calls CalculatePercentage method and displays the grade accordingly. 
-
-## College_Cpp_lab
