@@ -37,7 +37,6 @@
 34. sum_of_natural_num
 35. swap
 
-All Questions are inside.
 ---
 
 ## College_Cpp_class
@@ -95,3 +94,6 @@ All Questions are inside.
 - Include a constructor that takes values of Name, Rollno and Marks from the user as input. 
 - Also include following methods: CalculatePercentage: that adds all 5 elements of array Marks and calculate percentage according to formula Percentage = (Total marks/ 500 )*100 
 - and stores result in member variable Percentage. Grade: that calls CalculatePercentage method and displays the grade accordingly. 
+
+---
+#### All Questions are inside.
